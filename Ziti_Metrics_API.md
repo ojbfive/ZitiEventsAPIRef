@@ -10,6 +10,8 @@ The following API endpoints are reference in this document:
 3. Network events
 4. Service Dial Metrics
 
+Please provide any feedback directly to your TAM or SA for enhancements, questions or issues. 
+
 ----------------------------------------------------------------------------------------
 
 * __Utilization__
