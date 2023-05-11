@@ -1,6 +1,6 @@
 ![](images/NFJust-Text-Blue.png)
 
-# API Docs for Ziti Events/Metrics for current API 1.0
+# API Docs for Ziti Events/Metrics for current API 1.0 **BETA**
 
 The following document is a work in progress instruction set for accessing network events and/or metrics from your edge routers/endpoints. These endpoints will be moving soon as of 6-28-22, so expect breaking changes to these APIs in the coming months. Future changes will make accessing this data much more approachable for the API user, and will just involve a template name, with a list of available parameters.
 
