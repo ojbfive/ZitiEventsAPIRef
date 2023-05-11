@@ -12,7 +12,7 @@ The following API endpoints are reference in this document:
 
 ----------------------------------------------------------------------------------------
 
-* Utilization
+* __Utilization__
 The volume of utilization is VERY high, so it is best queried using aggregates that roll up the data. 
 
 Query: Get All Utilization split by direction for the Entire network for the last 24 hours. 10 minute buckets. 
