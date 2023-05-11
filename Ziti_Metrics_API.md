@@ -1,4 +1,4 @@
-![](images/NFJust-Text-Blue.jpg)
+![](images/NFJust-Text-Blue.png)
 
 # API Docs for Ziti Events/Metrics for current API 1.0
 
