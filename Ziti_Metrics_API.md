@@ -91,7 +91,7 @@ https://gateway.production.netfoundry.io/rest/v1/elastic/ncutilization/<NETWORK_
 ```
 
 
-* Management Events
+* __Management Events__
 Query: Get all provisioning activity from the Netfoundry API for the last 24 hours. 
 
 POST /rest/v1/elastic/ncentityevent/<NETWORK_GROUP_ID>/_search/
@@ -140,7 +140,7 @@ POST /rest/v1/elastic/ncentityevent/<NETWORK_GROUP_ID>/_search/
 ```
 
 
-* Network Events
+* __Network Events__
 
 POST /rest/v1/elastic/ncevents/<NETWORK_GROUP_ID>/_search/
 
@@ -187,7 +187,7 @@ POST /rest/v1/elastic/ncevents/<NETWORK_GROUP_ID>/_search/
 }
 ```
 
-* Service Dial Matrics
+* __Service Dial Matrics__
 Query: Get service dial metrics for a given service, bucketed in hourly intervals
 
 POST /rest/v1/elastic/ncserviceevents/<NETWORK_GROUP_ID>/_search/
