@@ -1,4 +1,4 @@
-![](file:///C:/NetFoundry/Sales/Icons/logos/NetFoundry%20Logos/NFBlueBG.jpg)
+![](file:///images/NFJust-Text-Blue.jpg)
 
 # API Docs for Ziti Events/Metrics for current API 1.0
 
