@@ -4,7 +4,7 @@
 
 The following document is a work in progress instruction set for accessing network events and/or metrics from your edge routers/endpoints. These endpoints will be moving soon as of 6-28-22, so expect breaking changes to these APIs in the coming months. Future changes will make accessing this data much more approachable for the API user, and will just involve a template name, with a list of available parameters.
 
-The following API endpoints are reference in this document:
+The following API endpoints are referenced in this document:
 1. Utilization
 2. Management Events
 3. Network events
