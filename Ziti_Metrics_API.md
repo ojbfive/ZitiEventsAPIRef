@@ -10,7 +10,7 @@ The following API endpoints are referenced in this document:
 3. Network events
 4. Service Dial Metrics
 
-Please provide any feedback directly to your TAM or SA for enhancements, questions or issues. 
+Please provide any feedback directly to your NetFoundry dedicated TAM or SA for enhancements, questions or issues. 
 
 ----------------------------------------------------------------------------------------
 
